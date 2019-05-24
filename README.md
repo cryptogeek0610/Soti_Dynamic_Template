@@ -2,7 +2,7 @@
 
 
 New added features:
- - True scaleability, icona match to every size screen, for both screen orientations, 'landscape' and 'portrait'. Also the Headers and the Footer will scale according to the device screen size.
+ - True scaleability, icons match to every size screen, for both screen orientations, 'landscape' and 'portrait'. Also the Headers and the Footer will scale according to the device screen size.
  - Added second Header. <b>"HMTL Header2"</b> to add mobicontrols HTML variables, such as <b>"%devicename%"</b>.
  - Footer will be smaller than the original and the image will be transparant.
 
