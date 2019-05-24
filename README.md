@@ -1,8 +1,9 @@
-<h1>All right and compliments go to 'mobilebob' for writing the original code and helping me adding new additions to it</h>
+<h2>All right and compliments go to 'mobilebob' for writing the original code and helping me adding new additions to it</h2>
+
 
 New added features:
- - Truely scalability, Icon matches every size screen, for both screen orientation 'landscape' and 'portrait'
- - Added second Header. <b>"HMTL Header2"</b> to add mobicontrols HTML variables, such as %devicename%
+ - Truely scalability, Icon matches every size screen, for both screen orientation 'landscape' and 'portrait'.
+ - Added second Header. <b>"HMTL Header2"</b> to add mobicontrols HTML variables, such as %devicename%.
 
 
 <b> Original Readme: </b>
