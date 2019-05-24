@@ -2,8 +2,9 @@
 
 
 New added features:
- - Truely scalability, Icon matches every size screen, for both screen orientation 'landscape' and 'portrait'.
+ - Truely scalability, Icon matches every size screen, for both screen orientation 'landscape' and 'portrait'. Also the Headers and the Footer will scale.
  - Added second Header. <b>"HMTL Header2"</b> to add mobicontrols HTML variables, such as %devicename%.
+ - Footer will be smaller than the original and the image will be transparant
 
 <br></br>
 <br></br>
