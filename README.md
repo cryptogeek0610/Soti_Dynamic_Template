@@ -1,4 +1,4 @@
-<h2>All right and compliments go to 'mobilebob' for writing the original code and helping me adding new additions to it</h2>
+<h2>All rights and credits go to 'Mobilebob' for creating the original code and helping me adding new additions to it</h2>
 
 
 New added features:
